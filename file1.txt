@@ -1,4 +1,8 @@
 Hello Git 
 
 Learning Git 
+<<<<<<< HEAD
 Master change 
+=======
+Feature change 
+>>>>>>> feature1
